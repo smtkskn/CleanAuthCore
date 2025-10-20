@@ -1,0 +1,6 @@
+@CleanAuthCore_HostAddress = http://localhost:5228
+
+GET {{CleanAuthCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
